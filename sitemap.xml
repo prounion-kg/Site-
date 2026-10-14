@@ -1,9 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://prounion.kg/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/en.html"/>
     <lastmod>2026-10-14</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/en.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/chelovecheskiy-kapital.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/chelovecheskiy-kapital.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/hr-employer-of-record.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/hr-employer-of-record.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/chelovecheskiy-kapital.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/hr-employer-of-record.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/upravlenie-talantami.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/upravlenie-talantami.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/talent-management.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/talent-management.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/upravlenie-talantami.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/talent-management.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/vyhod-na-rynok.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/vyhod-na-rynok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/market-entry.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/market-entry.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/vyhod-na-rynok.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/market-entry.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/ekspertiza.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/where-we-come-in.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/o-kompanii.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/sotrudnichestvo.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/sotrudnichestvo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/how-we-work.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/how-we-work.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/sotrudnichestvo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/how-we-work.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/kontakty.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/kontakty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/contact.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prounion.kg/kontakty.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://prounion.kg/contact.html"/>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://prounion.kg/privacy.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.3</priority>
   </url>
 </urlset>
